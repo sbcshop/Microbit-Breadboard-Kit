@@ -15,3 +15,6 @@ Now drag and drop the block as shown in the image below and click on the downloa
 
 # Working
 <img src="https://github.com/sbcshop/micro-bit-Breadboard-Kit/blob/main/images/giff1.gif" />
+
+Alternate Method :
+You can directly drag and drop test.hex file to Microbit to run the above said program.
