@@ -6,4 +6,5 @@ Micro: bit Breadboard Kit is a multi-purpose Kit that consists of 20 input/outpu
 Visit the official programming website of Microbit https://makecode.microbit.org/
 
 Now create a new project by clicking on the "New project" tab and entering the name of your project.
-<img src="images/makecode_microbit.PNG" />
+
+<img src="https://github.com/sbcshop/RFID-Expansion-For-Microbit/blob/main/images/makecode_microbit.PNG" />
