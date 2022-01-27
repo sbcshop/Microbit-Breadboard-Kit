@@ -12,3 +12,5 @@ Now create a new project by clicking on the "New project" tab and entering the n
 Now drag and drop the block as shown in the image below and click on the download button to download it on your Microbit.
 
 <img src="https://github.com/sbcshop/micro-bit-Breadboard-Kit/blob/main/images/microbit.JPG" />
+
+<img src="https://github.com/sbcshop/micro-bit-Breadboard-Kit/blob/main/images/giff1.gif" />
