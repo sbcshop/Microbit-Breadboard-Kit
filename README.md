@@ -21,3 +21,5 @@ Now drag and drop the block as shown in the image below and click on the downloa
 
 ## Alternate Method :
 You can directly drag and drop the test.hex file to Microbit to run the above program.
+
+### <a href="https://learn.sb-components.co.uk/Microbit-breadboard-Kit" > Microbit breadboard Kit Wiki Portal </a>
